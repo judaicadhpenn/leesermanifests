@@ -1,0 +1,165 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://62770db3-1b90-4fff-8eb8-f69604057374",
+	"@type": "sc:Manifest",
+	"label": "Letter, 1848 Tazria, Menahem Goldshmit (E. Goldsmith), New York to Isaac Leeser, Philadelphia, with article for the Occident. 3 leaves.",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Letter, 1848 Tazria, Menahem Goldshmit (E. Goldsmith), New York to Isaac Leeser, Philadelphia, with article for the Occident. 3 leaves.",
+			"@language": "he"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "The Library of the Jewish Theological Seminary of America",
+	"sequences": [
+		{
+			"@id": "http://a7445d2b-44bc-48cd-bf37-3c88f6e47d1d",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://798de978-0ec6-4ad7-91e1-9eb181901098",
+					"@type": "sc:Canvas",
+					"label": "1r",
+					"height": 6179,
+					"width": 4112,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6cb96fbf-ab48-4437-89e8-cea819a35c13",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://na-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJ1cy1lYXN0LTEiLCJidWNrZXQiOiJuYS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjAxSlRTX0lOU1Qvc3RvcmFnZS9hbG1hL0M4LzI0L0RCL0M2L0MxL0Y4LzlELzZGLzdCLzQ4L0QxLzQzLzc2LzBDLzlCLzlCLzAwMDRfSW1hZ2UgMy50aWZmIiwicmVwX2lkIjoiMTI2MDQ2MjY2MDAwNzcwNiIsImluc3RhbmNlIjoibmEwNyIsImluc3RpdHV0aW9uIjoiMDFKVFNfSU5TVCIsIndpZHRoIjpudWxsLCJoZWlnaHQiOm51bGwsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlfQ%3D%3D/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://na-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJ1cy1lYXN0LTEiLCJidWNrZXQiOiJuYS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjAxSlRTX0lOU1Qvc3RvcmFnZS9hbG1hL0M4LzI0L0RCL0M2L0MxL0Y4LzlELzZGLzdCLzQ4L0QxLzQzLzc2LzBDLzlCLzlCLzAwMDRfSW1hZ2UgMy50aWZmIiwicmVwX2lkIjoiMTI2MDQ2MjY2MDAwNzcwNiIsImluc3RhbmNlIjoibmEwNyIsImluc3RpdHV0aW9uIjoiMDFKVFNfSU5TVCIsIndpZHRoIjpudWxsLCJoZWlnaHQiOm51bGwsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlfQ%3D%3D",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray",
+												"bitonal",
+												"default"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6179,
+								"width": 4112
+							},
+							"on": "http://798de978-0ec6-4ad7-91e1-9eb181901098"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5dea2a46-f957-4159-9721-bbe4f0bb1631",
+					"@type": "sc:Canvas",
+					"label": "1v",
+					"height": 6146,
+					"width": 4140,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5ae876b0-289e-4f9e-8c1c-8b90b9738f3e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://na-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJ1cy1lYXN0LTEiLCJidWNrZXQiOiJuYS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjAxSlRTX0lOU1Qvc3RvcmFnZS9hbG1hL0M4LzI0L0RCL0M2L0MxL0Y4LzlELzZGLzdCLzQ4L0QxLzQzLzc2LzBDLzlCLzlCLzAwMDVfSW1hZ2UgNC50aWZmIiwicmVwX2lkIjoiMTI2MDQ2MjY2MDAwNzcwNiIsImluc3RhbmNlIjoibmEwNyIsImluc3RpdHV0aW9uIjoiMDFKVFNfSU5TVCIsIndpZHRoIjpudWxsLCJoZWlnaHQiOm51bGwsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlfQ%3D%3D/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://na-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJ1cy1lYXN0LTEiLCJidWNrZXQiOiJuYS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjAxSlRTX0lOU1Qvc3RvcmFnZS9hbG1hL0M4LzI0L0RCL0M2L0MxL0Y4LzlELzZGLzdCLzQ4L0QxLzQzLzc2LzBDLzlCLzlCLzAwMDVfSW1hZ2UgNC50aWZmIiwicmVwX2lkIjoiMTI2MDQ2MjY2MDAwNzcwNiIsImluc3RhbmNlIjoibmEwNyIsImluc3RpdHV0aW9uIjoiMDFKVFNfSU5TVCIsIndpZHRoIjpudWxsLCJoZWlnaHQiOm51bGwsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlfQ%3D%3D",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray",
+												"bitonal",
+												"default"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6146,
+								"width": 4140
+							},
+							"on": "http://5dea2a46-f957-4159-9721-bbe4f0bb1631"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "right-to-left"
+}
