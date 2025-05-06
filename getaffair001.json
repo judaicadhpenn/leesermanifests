@@ -1,0 +1,163 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://1df4894f-c8c1-4a02-8d96-67412c395b41",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Casuistical decision of a divorce case by rabbi Isidor Kalisch. 1 leaf.",
+			"@language": "he"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "The Library of the Jewish Theological Seminary of America",
+	"sequences": [
+		{
+			"@id": "http://4c271007-1bb6-4e7e-8609-2e80daa135b0",
+			"@type": "sc:Sequence",
+			"label": "Normal Sequence",
+			"canvases": [
+				{
+					"@id": "http://0f5e70fd-996d-4a58-874d-bb11800ff809",
+					"@type": "sc:Canvas",
+					"label": "1r",
+					"height": 5186,
+					"width": 4568,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d6d4a760-a8a0-4c5d-8906-a5e2b47bcb78",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://na-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJ1cy1lYXN0LTEiLCJidWNrZXQiOiJuYS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjAxSlRTX0lOU1Qvc3RvcmFnZS9hbG1hL0M4LzI0L0RCL0M2L0MxL0Y4LzlELzZGLzdCLzQ4L0QxLzQzLzc2LzBDLzlCLzlCLzAwMDJfSW1hZ2UgMS50aWZmIiwicmVwX2lkIjoiMTI2MDQ2MjY2MDAwNzcwNiIsImluc3RhbmNlIjoibmEwNyIsImluc3RpdHV0aW9uIjoiMDFKVFNfSU5TVCIsIndpZHRoIjpudWxsLCJoZWlnaHQiOm51bGwsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlfQ%3D%3D/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://na-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJ1cy1lYXN0LTEiLCJidWNrZXQiOiJuYS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjAxSlRTX0lOU1Qvc3RvcmFnZS9hbG1hL0M4LzI0L0RCL0M2L0MxL0Y4LzlELzZGLzdCLzQ4L0QxLzQzLzc2LzBDLzlCLzlCLzAwMDJfSW1hZ2UgMS50aWZmIiwicmVwX2lkIjoiMTI2MDQ2MjY2MDAwNzcwNiIsImluc3RhbmNlIjoibmEwNyIsImluc3RpdHV0aW9uIjoiMDFKVFNfSU5TVCIsIndpZHRoIjpudWxsLCJoZWlnaHQiOm51bGwsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlfQ%3D%3D",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray",
+												"bitonal",
+												"default"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5186,
+								"width": 4568
+							},
+							"on": "http://0f5e70fd-996d-4a58-874d-bb11800ff809"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f12bd7c9-4ae9-4503-8aa8-2281ec1979ff",
+					"@type": "sc:Canvas",
+					"label": "1v",
+					"height": 5308,
+					"width": 4344,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d4c3f2f4-2d8c-472c-8481-f2b7b575b64f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://na-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJ1cy1lYXN0LTEiLCJidWNrZXQiOiJuYS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjAxSlRTX0lOU1Qvc3RvcmFnZS9hbG1hL0M4LzI0L0RCL0M2L0MxL0Y4LzlELzZGLzdCLzQ4L0QxLzQzLzc2LzBDLzlCLzlCLzAwMDNfSW1hZ2UgMi50aWZmIiwicmVwX2lkIjoiMTI2MDQ2MjY2MDAwNzcwNiIsImluc3RhbmNlIjoibmEwNyIsImluc3RpdHV0aW9uIjoiMDFKVFNfSU5TVCIsIndpZHRoIjpudWxsLCJoZWlnaHQiOm51bGwsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlfQ%3D%3D/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://na-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJ1cy1lYXN0LTEiLCJidWNrZXQiOiJuYS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjAxSlRTX0lOU1Qvc3RvcmFnZS9hbG1hL0M4LzI0L0RCL0M2L0MxL0Y4LzlELzZGLzdCLzQ4L0QxLzQzLzc2LzBDLzlCLzlCLzAwMDNfSW1hZ2UgMi50aWZmIiwicmVwX2lkIjoiMTI2MDQ2MjY2MDAwNzcwNiIsImluc3RhbmNlIjoibmEwNyIsImluc3RpdHV0aW9uIjoiMDFKVFNfSU5TVCIsIndpZHRoIjpudWxsLCJoZWlnaHQiOm51bGwsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlfQ%3D%3D",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"qualities": [
+												"color",
+												"gray",
+												"bitonal",
+												"default"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5308,
+								"width": 4344
+							},
+							"on": "http://f12bd7c9-4ae9-4503-8aa8-2281ec1979ff"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://0f5e70fd-996d-4a58-874d-bb11800ff809"
+	},
+	"viewingDirection": "right-to-left"
+}
